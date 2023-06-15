@@ -1,23 +1,22 @@
 <h1 align="center"">Hi <img align="center" alt="Coding" width="35" src="https://media.tenor.com/nd4u-hFPRqUAAAAi/cute.gif">
 , I'm Tamuramaro Kamachi !</h1>
 
-<h3 align="left">About Me <img align="center" width="35" alt="me" src="https://media.tenor.com/9PHofpfIJt4AAAAS/cat-meme-cat-meme-dance.gif"></h3>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kamachiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kamachiii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamachiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📚 I’m currently learning **Html, Css, PHP, Js, Laravel**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kamachiii&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
-- 💬 How to reach me **hengkert3jy@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<h3 align="left">Languages and Tools <img align="center" width="35" height="35" alt="me" src="https://media.tenor.com/tnGut1qcfEQAAAAC/cats-dance.gif"></h3>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kamachiii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
-
-<div align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamachiii&theme=radical&show_icons=true&locale=en" alt="kamachiii" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamachiii&theme=radical" alt="kamachiii" /></p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamachiii&theme=radical" alt="kamachiii" /></a><img width="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamachiii&theme=radical&show_icons=true&locale=en&layout=compact" alt="kamachiii" />
-<h4>Connect with Me <img align="center" width="30" alt="me" src="https://media.tenor.com/mCs02aeuB50AAAAM/beluga-cat-meme-discord.gif"></h4>
-<p>
-<a href="https://fb.com/noobie7406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/noobie7406" height="30" width="40" /></a>
-<a href="https://instagram.com/kamachiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/" height="30" width="40" /></a>
-</p>
-
-<p><img src="https://komarev.com/ghpvc/?username=kamachiii&label=Profile%20views&color=0e75b6&style=flat" alt="kamachiii" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaamaaaachiiiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-kamil-a7a809255) <img style="margin-left: 2px" src="https://komarev.com/ghpvc/?username=kamachiii&label=Profile%20views&color=0e75b6&style=flat" alt="kamachiii" />
 </div>
